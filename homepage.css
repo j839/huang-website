@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: cursive;
+  font-size: 24px;
+  text-align: center;
+}
+
+img {
+  width: 350px;
+  box-shadow: 5px 5px 25px bisque;
+  margin-left: calc(50% - 175px);
+}
